@@ -1,0 +1,2 @@
+# Mr-MX
+Hacker adalah suatu profesi dimana dia menciptakan sesuatu yang berbau bahasa pemrograman dan memproteksi dari tindakan yang tidak sah dan pembajakan.  Biasanya mereka mempunyai kode etik dimana tidak akan saling merusak sesuatu Pemrograman yang masih baru, kecuali jika program tersebut sudah mati atau tidak digunakan Lagi.  Mereka akan saling mengingatkan bila pemrograman yang diciptakan mengalami bug atau terdapat celah-celah yang tentunya peringatan mereka tidak diketahui oleh khalayak umum.
